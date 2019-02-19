@@ -1,0 +1,3 @@
+/home/liubin/Workspace/Cpp/openni2_sketchs/01_OpenNI_Basic/build/CMakeFiles/edit_cache.dir
+/home/liubin/Workspace/Cpp/openni2_sketchs/01_OpenNI_Basic/build/CMakeFiles/rebuild_cache.dir
+/home/liubin/Workspace/Cpp/openni2_sketchs/01_OpenNI_Basic/build/CMakeFiles/OpenNI_Basic.dir

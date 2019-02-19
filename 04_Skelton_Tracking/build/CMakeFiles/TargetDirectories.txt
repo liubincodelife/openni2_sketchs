@@ -1,0 +1,3 @@
+/home/liubin/Workspace/Cpp/openni2_sketchs/04_Skelton_Tracking/build/CMakeFiles/edit_cache.dir
+/home/liubin/Workspace/Cpp/openni2_sketchs/04_Skelton_Tracking/build/CMakeFiles/rebuild_cache.dir
+/home/liubin/Workspace/Cpp/openni2_sketchs/04_Skelton_Tracking/build/CMakeFiles/Skeleton_Tracking.dir
